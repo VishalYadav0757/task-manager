@@ -1,2 +1,2 @@
 # Task Manager
-A task manager application created in Node.js, Express.js, MongoDB and Mongoose.
+A task manager application created using Node.js, Express.js, MongoDB and Mongoose.
